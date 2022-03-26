@@ -1,0 +1,108 @@
+.rating .text {
+  margin-left: 10px;
+}
+
+.ant-carousel {
+  width: 40%;
+  margin: 0;
+}
+.product_heading {
+  margin-right: 616px;
+  font-size: 23px;
+}
+.rating {
+  margin-right: 934px;
+
+  margin-top: -21px;
+}
+.ant-carousel .slick-dots li {
+  width: 5px;
+  border-radius: 50%;
+}
+.ant-carousel .slick-dots li button {
+  width: 5px;
+  border-radius: 50%;
+  margin: 5px;
+}
+.ant-carousel .slick-slider .slick-list {
+  height: 260px;
+  width: 40%;
+}
+.radi {
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: space-between;
+}
+.ts {
+  display: flex;
+  /* margin-right: 333px; */
+  flex-grow: 1;
+}
+.ss {
+  display: flex;
+  flex-direction: column;
+  margin-right: 45px;
+}
+.ant-radio-button-wrapper {
+  margin: 10px 10px 10px 0px;
+}
+/* .ant-radio-button-wrapper :not(:first-child) {
+    margin-right: 10px;
+  } */
+
+.btn-sec {
+  text-align: right;
+  margin: 20px 0;
+}
+.btn-sec :first-child {
+  margin-right: 10px;
+}
+
+label {
+  display: block;
+}
+
+.quantity-input {
+  /* display: flex; */
+  align-items: center;
+  border-radius: 5px;
+  margin-right: 25px;
+  border: solid 1px grey;
+  width: 30%;
+  height: 10%;
+  margin-top: 23px;
+}
+
+.quantity-input__modifier,
+.quantity-input__screen {
+  user-select: none;
+  outline: none;
+}
+
+.quantity-input__modifier {
+  font-size: 15px;
+  background: #f3f3f3;
+  color: #888;
+  border: 0 solid #dbdbdb;
+  text-align: center;
+  text-shadow: 0 1px 0 rgba(#fff, 0.6);
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.quantity-input__screen {
+  width: 40px;
+  padding: 7px;
+  border: 0;
+  border-top: 0 solid #dbdbdb;
+  border-bottom: 0 solid #dbdbdb;
+  text-align: center;
+}
+.content_style {
+  height: 160px;
+  color: #fff;
+  line-height: 160px;
+  text-align: center;
+  background-color: #364d79;
+  padding: 20px;
+}

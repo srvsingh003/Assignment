@@ -1,0 +1,26 @@
+.p_des {
+  color: #707070;
+  align-self: auto;
+}
+.description {
+  display: flex;
+}
+.product h1 {
+  font-size: 15px;
+  display: flex;
+  color: #707070;
+}
+.desc_main {
+  width: 40%;
+  text-align: left;
+}
+.desc_main h5 {
+}
+.desc_main img {
+  position: absolute;
+  left: 7.78%;
+  right: 70.76%;
+  top: 27.27%;
+  bottom: 66.29%;
+  height: 29%;
+}

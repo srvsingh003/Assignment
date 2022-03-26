@@ -1,0 +1,36 @@
+.header {
+  background-color: #f7f7f7;
+}
+.searchBar {
+  bottom: 96.66%;
+  height: 40px;
+  width: 48%;
+  align-self: center;
+  margin-top: 20px;
+  border: 1px solid #aaaaaa;
+  margin-bottom: 10px;
+  margin-left: 88px;
+}
+.logo {
+  position: absolute;
+  left: 33px;
+  top: 16px;
+}
+.user_basket {
+  float: right;
+  padding-top: 20px;
+  margin-right: 25px;
+}
+/* .user_basket img {
+  padding: 10px;
+} */
+.searchLogo {
+  background-color: grey;
+
+  height: 42px;
+  width: 54px;
+  border: 0px;
+  position: absolute;
+
+  top: 19px;
+}

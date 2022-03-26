@@ -1,0 +1,20 @@
+.items {
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  font-style: Segoe UI;
+  font-weight: 400, Regular;
+  color: white;
+  padding-top: 12px;
+}
+.NavBlock {
+  border: 2px solid null;
+  height: 48px;
+  width: 100%;
+  padding-top: 1px;
+  top: 84px;
+  background-color: #707070;
+}
+.li {
+  list-style: none;
+}
